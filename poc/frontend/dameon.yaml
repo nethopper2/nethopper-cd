@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: DaemonSet
 metadata:
-  name: frontend-ds-v1
+  name: frontend-ds-v1s
   labels:
     app: frontend-ds-v1
   annotations:
